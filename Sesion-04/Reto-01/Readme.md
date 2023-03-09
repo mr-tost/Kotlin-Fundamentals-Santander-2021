@@ -74,8 +74,9 @@ Vamos a perfeccionar la clase Koopa
 
     <details>
         <summary>Solución</summary>
+    
+    Primero hay qué volver a la clase Koopa *open* y volver la clase estado a *protected*
 
-    Primero hay que volver a la clase Koopa *open* y volver la clase estado a *protected*
     ```kotlin
     open class Koopa:
     ...
@@ -106,6 +107,7 @@ Vamos a perfeccionar la clase Koopa
 
     }
     ```
+    
     </details>
 
     </br>
